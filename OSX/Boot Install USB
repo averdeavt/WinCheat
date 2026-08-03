@@ -1,0 +1,2 @@
+# Boot install USB
+sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/YourUSBName
